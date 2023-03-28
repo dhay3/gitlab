@@ -1,6 +1,8 @@
-SimpleGit Ruby Library
+SmpleGit Ruby Library
 ======================
 
 This library calls git commands and returns the output.
 
 Author : Scott Chacon
+
+issue53 fixing
