@@ -6,3 +6,5 @@ This library calls git commands and returns the output.
 Author : Scott Chacon
 
 master hotfix issue53 fixing
+
+git push origin +master
