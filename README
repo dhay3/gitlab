@@ -3,8 +3,8 @@ SmpleGit Ruby Library
 
 This library calls git commands and returns the output.
 
-Author : Scott Chacon
+Author : David Petter
 
-master hotfix issue53 fixing
+master merge config
 
 git push origin +master
