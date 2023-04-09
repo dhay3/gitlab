@@ -8,3 +8,5 @@ Author : David Petter
 master merge config
 
 git push origin +master
+
+test gpg sign
